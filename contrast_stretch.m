@@ -6,7 +6,7 @@ function [image] =  contrast_stretch(r_image, lower_bound,upper_bound, tran_val)
 % IMPORTANT NOTICE
 % -----------
 %
-%   Images MUST be in greyscale before calling thisn function
+%   Images MUST be in greyscale before calling this function
 %
 % Description
 % -----------
